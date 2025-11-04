@@ -1,0 +1,21 @@
+{
+  "title": "Maisha",
+  "slug": "maisha",
+  "summary": "A practical, faith-aligned knowledge commons for health, WASH, and community resilience—curated by regional editors.",
+  "status": "active",
+  "owner": "Regional Editors (SSA) + Open Mission of Hope",
+  "body": {
+    "raw": "\nMaisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\n\n## Our Approach\n\nKnowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities—grounded in both evidence and faith.\n\n## What We Cover\n\n- Community health best practices\n- Water and sanitation solutions\n- Nutrition and food security\n- Disease prevention and response\n- Traditional wisdom integrated with modern approaches\n\n## Leadership\n\nRegional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\n",
+    "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var i in e)r(n,i,{get:e[i],enumerable:!0})},s=(n,e,i,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!f.call(n,a)&&a!==i&&r(n,a,{get:()=>e[a],enumerable:!(o=u(e,a))||o.enumerable});return n};var x=(n,e,i)=>(i=n!=null?d(m(n)):{},s(e||!n||!n.__esModule?r(i,\"default\",{value:n,enumerable:!0}):i,n)),y=n=>s(r({},\"__esModule\",{value:!0}),n);var l=g((v,c)=>{c.exports=_jsx_runtime});var S={};w(S,{default:()=>M,frontmatter:()=>b});var t=x(l()),b={title:\"Maisha\",slug:\"maisha\",summary:\"A practical, faith-aligned knowledge commons for health, WASH, and community resilience\\u2014curated by regional editors.\",status:\"active\",owner:\"Regional Editors (SSA) + Open Mission of Hope\"};function h(n){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},n.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Maisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,t.jsx)(e.p,{children:\"Knowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities\\u2014grounded in both evidence and faith.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"What We Cover\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsx)(e.li,{children:\"Community health best practices\"}),`\n`,(0,t.jsx)(e.li,{children:\"Water and sanitation solutions\"}),`\n`,(0,t.jsx)(e.li,{children:\"Nutrition and food security\"}),`\n`,(0,t.jsx)(e.li,{children:\"Disease prevention and response\"}),`\n`,(0,t.jsx)(e.li,{children:\"Traditional wisdom integrated with modern approaches\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Leadership\"}),`\n`,(0,t.jsx)(e.p,{children:\"Regional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\"})]})}function j(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,Object.assign({},n,{children:(0,t.jsx)(h,n)})):h(n)}var M=j;return y(S);})();\n;return Component;"
+  },
+  "_id": "programs/maisha.mdx",
+  "_raw": {
+    "sourceFilePath": "programs/maisha.mdx",
+    "sourceFileName": "maisha.mdx",
+    "sourceFileDir": "programs",
+    "contentType": "mdx",
+    "flattenedPath": "programs/maisha"
+  },
+  "type": "Program",
+  "url": "/programs/maisha"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Toivo",
+  "slug": "toivo",
+  "summary": "On-chain receipts and transparent disbursements for mercy work.",
+  "stage": "incubating",
+  "priority": 0,
+  "owner": "Open Mission of Hope",
+  "tags": [
+    "transparency",
+    "blockchain",
+    "donations"
+  ],
+  "body": {
+    "raw": "\nToivo will be the blockchain spine: donations in, receipts out, milestone-based disbursements, and public dashboards.\n\n## Vision\n\nEvery dollar given for humanitarian work should be traceable from donor to impact. Toivo uses blockchain technology to create immutable records of donations, disbursements, and outcomes—making charity transparent by default.\n\n## How It Will Work\n\n1. **Donate**: Contributors receive instant blockchain receipts\n2. **Track**: Funds are released based on verified milestones\n3. **Verify**: Public dashboards show real-time fund flows\n4. **Impact**: Connect donations directly to documented outcomes\n\n## Why Blockchain?\n\nTraditional charity often lacks transparency. Blockchain provides an immutable, public ledger that can't be altered—building trust through technology.\n\n## Current Status\n\nWe're researching the best blockchain platforms and designing the smart contract architecture. Early prototypes are in development.\n",
+    "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var g=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),f=(t,n)=>{for(var r in n)i(t,r,{get:n[r],enumerable:!0})},a=(t,n,r,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of m(n))!b.call(t,o)&&o!==r&&i(t,o,{get:()=>n[o],enumerable:!(s=u(n,o))||s.enumerable});return t};var y=(t,n,r)=>(r=t!=null?h(p(t)):{},a(n||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),k=t=>a(i({},\"__esModule\",{value:!0}),t);var l=g((C,c)=>{c.exports=_jsx_runtime});var j={};f(j,{default:()=>w,frontmatter:()=>v});var e=y(l()),v={title:\"Toivo\",slug:\"toivo\",summary:\"On-chain receipts and transparent disbursements for mercy work.\",stage:\"incubating\",priority:0,owner:\"Open Mission of Hope\",tags:[\"transparency\",\"blockchain\",\"donations\"]};function d(t){let n=Object.assign({p:\"p\",h2:\"h2\",ol:\"ol\",li:\"li\",strong:\"strong\"},t.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"Toivo will be the blockchain spine: donations in, receipts out, milestone-based disbursements, and public dashboards.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Vision\"}),`\n`,(0,e.jsx)(n.p,{children:\"Every dollar given for humanitarian work should be traceable from donor to impact. Toivo uses blockchain technology to create immutable records of donations, disbursements, and outcomes\\u2014making charity transparent by default.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"How It Will Work\"}),`\n`,(0,e.jsxs)(n.ol,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Donate\"}),\": Contributors receive instant blockchain receipts\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Track\"}),\": Funds are released based on verified milestones\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Verify\"}),\": Public dashboards show real-time fund flows\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Impact\"}),\": Connect donations directly to documented outcomes\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Why Blockchain?\"}),`\n`,(0,e.jsx)(n.p,{children:\"Traditional charity often lacks transparency. Blockchain provides an immutable, public ledger that can't be altered\\u2014building trust through technology.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Current Status\"}),`\n`,(0,e.jsx)(n.p,{children:\"We're researching the best blockchain platforms and designing the smart contract architecture. Early prototypes are in development.\"})]})}function x(t={}){let{wrapper:n}=t.components||{};return n?(0,e.jsx)(n,Object.assign({},t,{children:(0,e.jsx)(d,t)})):d(t)}var w=x;return k(j);})();\n;return Component;"
+  },
+  "_id": "ideas/toivo.mdx",
+  "_raw": {
+    "sourceFilePath": "ideas/toivo.mdx",
+    "sourceFileName": "toivo.mdx",
+    "sourceFileDir": "ideas",
+    "contentType": "mdx",
+    "flattenedPath": "ideas/toivo"
+  },
+  "type": "Idea",
+  "url": "/incubator#toivo"
+}

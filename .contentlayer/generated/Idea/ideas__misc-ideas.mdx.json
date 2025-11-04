@@ -1,0 +1,25 @@
+{
+  "title": "Brainstorm: Open Meadow",
+  "slug": "open-meadow",
+  "summary": "Community ideas we're collecting.",
+  "stage": "brainstorm",
+  "priority": 999,
+  "owner": "Community",
+  "tags": [
+    "brainstorm"
+  ],
+  "body": {
+    "raw": "\n## Community Brainstorm Ideas\n\nThese are early-stage ideas from our community that need more research, refinement, and validation.\n\n### Essential Pharma Plants\n\nSimple pharmaceutical production facilities in countries with serious need, focusing on essential medicines like:\n- Oral Rehydration Solution (ORS)\n- Basic analgesics (aspirin, paracetamol)\n- Antibiotics for common infections\n- Essential vitamins and supplements\n\n**Challenge**: Regulatory compliance, quality control, sustainable economics, and avoiding market disruption.\n\n### Christian Free Loan Organization\n\nA faith-based microfinance platform where:\n- Depositors receive returns through Proof-of-Stake blockchain rewards rather than interest\n- Borrowers receive interest-free loans (aligned with biblical lending principles)\n- Blockchain provides transparency and accountability\n- Community oversight ensures responsible use\n\n**Challenge**: Regulatory framework, sustainability model, protection against defaults, and ensuring alignment with both biblical principles and modern financial regulations.\n\n---\n\nHave an idea? We'd love to hear it. These brainstorms help us identify where God might be calling us to serve next.\n",
+    "code": "var Component=(()=>{var d=Object.create;var a=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),b=(i,n)=>{for(var r in n)a(i,r,{get:n[r],enumerable:!0})},s=(i,n,r,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of u(n))!g.call(i,t)&&t!==r&&a(i,t,{get:()=>n[t],enumerable:!(o=m(n,t))||o.enumerable});return i};var y=(i,n,r)=>(r=i!=null?d(p(i)):{},s(n||!i||!i.__esModule?a(r,\"default\",{value:i,enumerable:!0}):r,i)),w=i=>s(a({},\"__esModule\",{value:!0}),i);var c=f((k,l)=>{l.exports=_jsx_runtime});var j={};b(j,{default:()=>C,frontmatter:()=>v});var e=y(c()),v={title:\"Brainstorm: Open Meadow\",slug:\"open-meadow\",summary:\"Community ideas we're collecting.\",stage:\"brainstorm\",priority:999,owner:\"Community\",tags:[\"brainstorm\"]};function h(i){let n=Object.assign({h2:\"h2\",p:\"p\",h3:\"h3\",ul:\"ul\",li:\"li\",strong:\"strong\",hr:\"hr\"},i.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.h2,{children:\"Community Brainstorm Ideas\"}),`\n`,(0,e.jsx)(n.p,{children:\"These are early-stage ideas from our community that need more research, refinement, and validation.\"}),`\n`,(0,e.jsx)(n.h3,{children:\"Essential Pharma Plants\"}),`\n`,(0,e.jsx)(n.p,{children:\"Simple pharmaceutical production facilities in countries with serious need, focusing on essential medicines like:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsx)(n.li,{children:\"Oral Rehydration Solution (ORS)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Basic analgesics (aspirin, paracetamol)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Antibiotics for common infections\"}),`\n`,(0,e.jsx)(n.li,{children:\"Essential vitamins and supplements\"}),`\n`]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Challenge\"}),\": Regulatory compliance, quality control, sustainable economics, and avoiding market disruption.\"]}),`\n`,(0,e.jsx)(n.h3,{children:\"Christian Free Loan Organization\"}),`\n`,(0,e.jsx)(n.p,{children:\"A faith-based microfinance platform where:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsx)(n.li,{children:\"Depositors receive returns through Proof-of-Stake blockchain rewards rather than interest\"}),`\n`,(0,e.jsx)(n.li,{children:\"Borrowers receive interest-free loans (aligned with biblical lending principles)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Blockchain provides transparency and accountability\"}),`\n`,(0,e.jsx)(n.li,{children:\"Community oversight ensures responsible use\"}),`\n`]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Challenge\"}),\": Regulatory framework, sustainability model, protection against defaults, and ensuring alignment with both biblical principles and modern financial regulations.\"]}),`\n`,(0,e.jsx)(n.hr,{}),`\n`,(0,e.jsx)(n.p,{children:\"Have an idea? We'd love to hear it. These brainstorms help us identify where God might be calling us to serve next.\"})]})}function x(i={}){let{wrapper:n}=i.components||{};return n?(0,e.jsx)(n,Object.assign({},i,{children:(0,e.jsx)(h,i)})):h(i)}var C=x;return w(j);})();\n;return Component;"
+  },
+  "_id": "ideas/misc-ideas.mdx",
+  "_raw": {
+    "sourceFilePath": "ideas/misc-ideas.mdx",
+    "sourceFileName": "misc-ideas.mdx",
+    "sourceFileDir": "ideas",
+    "contentType": "mdx",
+    "flattenedPath": "ideas/misc-ideas"
+  },
+  "type": "Idea",
+  "url": "/incubator#open-meadow"
+}

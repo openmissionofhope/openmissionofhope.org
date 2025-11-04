@@ -1,0 +1,266 @@
+{
+  "cacheItemsMap": {
+    "ideas/christian-license.mdx": {
+      "document": {
+        "title": "Christian Open Source License",
+        "slug": "christian-license",
+        "summary": "A biblically inspired license family that guards against value drift while preserving openness.",
+        "stage": "incubating",
+        "priority": 10,
+        "owner": "Open Mission of Hope",
+        "tags": [
+          "policy",
+          "legal",
+          "open-source"
+        ],
+        "body": {
+          "raw": "\nExploring a permissive-but-purpose-aligned license set for projects where mission integrity matters.\n\n## The Challenge\n\nOpen source has transformed software, but mission-driven organizations face a dilemma: how to remain open while protecting against value drift or misuse by actors with opposing values.\n\n## Our Approach\n\nWe're exploring a license family that:\n- Preserves the core freedoms of open source (use, modify, distribute)\n- Includes mission-aligned restrictions (e.g., use must align with biblical values)\n- Provides legal clarity for both creators and users\n- Offers tiered options from permissive to restrictive\n\n## Inspiration\n\nDrawing from biblical principles of stewardship, integrity, and faithful use of resources, while learning from existing licenses like Creative Commons and GPL.\n\n## Current Work\n\nLegal research, community consultation, and drafting initial license text. We're committed to getting this right—legally sound, theologically grounded, and practically useful.\n",
+          "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var f=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),y=(i,e)=>{for(var r in e)s(i,r,{get:e[r],enumerable:!0})},l=(i,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!m.call(i,t)&&t!==r&&s(i,t,{get:()=>e[t],enumerable:!(o=u(e,t))||o.enumerable});return i};var b=(i,e,r)=>(r=i!=null?d(g(i)):{},l(e||!i||!i.__esModule?s(r,\"default\",{value:i,enumerable:!0}):r,i)),x=i=>l(s({},\"__esModule\",{value:!0}),i);var c=f((_,a)=>{a.exports=_jsx_runtime});var C={};y(C,{default:()=>j,frontmatter:()=>v});var n=b(c()),v={title:\"Christian Open Source License\",slug:\"christian-license\",summary:\"A biblically inspired license family that guards against value drift while preserving openness.\",stage:\"incubating\",priority:10,owner:\"Open Mission of Hope\",tags:[\"policy\",\"legal\",\"open-source\"]};function h(i){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},i.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Exploring a permissive-but-purpose-aligned license set for projects where mission integrity matters.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"The Challenge\"}),`\n`,(0,n.jsx)(e.p,{children:\"Open source has transformed software, but mission-driven organizations face a dilemma: how to remain open while protecting against value drift or misuse by actors with opposing values.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,n.jsx)(e.p,{children:\"We're exploring a license family that:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Preserves the core freedoms of open source (use, modify, distribute)\"}),`\n`,(0,n.jsx)(e.li,{children:\"Includes mission-aligned restrictions (e.g., use must align with biblical values)\"}),`\n`,(0,n.jsx)(e.li,{children:\"Provides legal clarity for both creators and users\"}),`\n`,(0,n.jsx)(e.li,{children:\"Offers tiered options from permissive to restrictive\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Inspiration\"}),`\n`,(0,n.jsx)(e.p,{children:\"Drawing from biblical principles of stewardship, integrity, and faithful use of resources, while learning from existing licenses like Creative Commons and GPL.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Current Work\"}),`\n`,(0,n.jsx)(e.p,{children:\"Legal research, community consultation, and drafting initial license text. We're committed to getting this right\\u2014legally sound, theologically grounded, and practically useful.\"})]})}function w(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,Object.assign({},i,{children:(0,n.jsx)(h,i)})):h(i)}var j=w;return x(C);})();\n;return Component;"
+        },
+        "_id": "ideas/christian-license.mdx",
+        "_raw": {
+          "sourceFilePath": "ideas/christian-license.mdx",
+          "sourceFileName": "christian-license.mdx",
+          "sourceFileDir": "ideas",
+          "contentType": "mdx",
+          "flattenedPath": "ideas/christian-license"
+        },
+        "type": "Idea",
+        "url": "/incubator#christian-license"
+      },
+      "documentHash": "1762230056555",
+      "hasWarnings": false,
+      "documentTypeName": "Idea"
+    },
+    "ideas/misc-ideas.mdx": {
+      "document": {
+        "title": "Brainstorm: Open Meadow",
+        "slug": "open-meadow",
+        "summary": "Community ideas we're collecting.",
+        "stage": "brainstorm",
+        "priority": 999,
+        "owner": "Community",
+        "tags": [
+          "brainstorm"
+        ],
+        "body": {
+          "raw": "\n## Community Brainstorm Ideas\n\nThese are early-stage ideas from our community that need more research, refinement, and validation.\n\n### Essential Pharma Plants\n\nSimple pharmaceutical production facilities in countries with serious need, focusing on essential medicines like:\n- Oral Rehydration Solution (ORS)\n- Basic analgesics (aspirin, paracetamol)\n- Antibiotics for common infections\n- Essential vitamins and supplements\n\n**Challenge**: Regulatory compliance, quality control, sustainable economics, and avoiding market disruption.\n\n### Christian Free Loan Organization\n\nA faith-based microfinance platform where:\n- Depositors receive returns through Proof-of-Stake blockchain rewards rather than interest\n- Borrowers receive interest-free loans (aligned with biblical lending principles)\n- Blockchain provides transparency and accountability\n- Community oversight ensures responsible use\n\n**Challenge**: Regulatory framework, sustainability model, protection against defaults, and ensuring alignment with both biblical principles and modern financial regulations.\n\n---\n\nHave an idea? We'd love to hear it. These brainstorms help us identify where God might be calling us to serve next.\n",
+          "code": "var Component=(()=>{var d=Object.create;var a=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),b=(i,n)=>{for(var r in n)a(i,r,{get:n[r],enumerable:!0})},s=(i,n,r,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of u(n))!g.call(i,t)&&t!==r&&a(i,t,{get:()=>n[t],enumerable:!(o=m(n,t))||o.enumerable});return i};var y=(i,n,r)=>(r=i!=null?d(p(i)):{},s(n||!i||!i.__esModule?a(r,\"default\",{value:i,enumerable:!0}):r,i)),w=i=>s(a({},\"__esModule\",{value:!0}),i);var c=f((k,l)=>{l.exports=_jsx_runtime});var j={};b(j,{default:()=>C,frontmatter:()=>v});var e=y(c()),v={title:\"Brainstorm: Open Meadow\",slug:\"open-meadow\",summary:\"Community ideas we're collecting.\",stage:\"brainstorm\",priority:999,owner:\"Community\",tags:[\"brainstorm\"]};function h(i){let n=Object.assign({h2:\"h2\",p:\"p\",h3:\"h3\",ul:\"ul\",li:\"li\",strong:\"strong\",hr:\"hr\"},i.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.h2,{children:\"Community Brainstorm Ideas\"}),`\n`,(0,e.jsx)(n.p,{children:\"These are early-stage ideas from our community that need more research, refinement, and validation.\"}),`\n`,(0,e.jsx)(n.h3,{children:\"Essential Pharma Plants\"}),`\n`,(0,e.jsx)(n.p,{children:\"Simple pharmaceutical production facilities in countries with serious need, focusing on essential medicines like:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsx)(n.li,{children:\"Oral Rehydration Solution (ORS)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Basic analgesics (aspirin, paracetamol)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Antibiotics for common infections\"}),`\n`,(0,e.jsx)(n.li,{children:\"Essential vitamins and supplements\"}),`\n`]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Challenge\"}),\": Regulatory compliance, quality control, sustainable economics, and avoiding market disruption.\"]}),`\n`,(0,e.jsx)(n.h3,{children:\"Christian Free Loan Organization\"}),`\n`,(0,e.jsx)(n.p,{children:\"A faith-based microfinance platform where:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsx)(n.li,{children:\"Depositors receive returns through Proof-of-Stake blockchain rewards rather than interest\"}),`\n`,(0,e.jsx)(n.li,{children:\"Borrowers receive interest-free loans (aligned with biblical lending principles)\"}),`\n`,(0,e.jsx)(n.li,{children:\"Blockchain provides transparency and accountability\"}),`\n`,(0,e.jsx)(n.li,{children:\"Community oversight ensures responsible use\"}),`\n`]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Challenge\"}),\": Regulatory framework, sustainability model, protection against defaults, and ensuring alignment with both biblical principles and modern financial regulations.\"]}),`\n`,(0,e.jsx)(n.hr,{}),`\n`,(0,e.jsx)(n.p,{children:\"Have an idea? We'd love to hear it. These brainstorms help us identify where God might be calling us to serve next.\"})]})}function x(i={}){let{wrapper:n}=i.components||{};return n?(0,e.jsx)(n,Object.assign({},i,{children:(0,e.jsx)(h,i)})):h(i)}var C=x;return w(j);})();\n;return Component;"
+        },
+        "_id": "ideas/misc-ideas.mdx",
+        "_raw": {
+          "sourceFilePath": "ideas/misc-ideas.mdx",
+          "sourceFileName": "misc-ideas.mdx",
+          "sourceFileDir": "ideas",
+          "contentType": "mdx",
+          "flattenedPath": "ideas/misc-ideas"
+        },
+        "type": "Idea",
+        "url": "/incubator#open-meadow"
+      },
+      "documentHash": "1762230094760",
+      "hasWarnings": false,
+      "documentTypeName": "Idea"
+    },
+    "ideas/project-elisha.mdx": {
+      "document": {
+        "title": "Project Elisha (Prefab Housing)",
+        "slug": "project-elisha",
+        "summary": "Open-source, modular prefab designs for disaster/humanitarian housing.",
+        "stage": "brainstorm",
+        "priority": 40,
+        "owner": "Open Mission of Hope",
+        "tags": [
+          "housing",
+          "hardware",
+          "design"
+        ],
+        "body": {
+          "raw": "\nResearch and prototyping for replicable shelter systems.\n\n## The Need\n\nDisasters and humanitarian crises create immediate housing needs. Current solutions are often expensive, slow, or culturally inappropriate. We believe open-source design can help.\n\n## Vision\n\nCreate modular, prefab housing designs that are:\n- **Affordable**: Designed for low-cost materials and simple assembly\n- **Adaptable**: Modular components that work in different climates and cultures\n- **Dignified**: Real homes, not just emergency shelter\n- **Replicable**: Open-source plans anyone can build from\n- **Sustainable**: Environmentally responsible materials and methods\n\n## Named After Elisha\n\nThe prophet Elisha performed miracles of provision and restoration, including preparing a room for a traveling prophet. This project honors that spirit of hospitality and practical care.\n\n## Current Status\n\nEarly research phase. We're studying existing prefab systems, consulting with humanitarian architects, and exploring manufacturing partnerships.\n",
+          "code": "var Component=(()=>{var d=Object.create;var t=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),b=(r,e)=>{for(var i in e)t(r,i,{get:e[i],enumerable:!0})},o=(r,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!g.call(r,s)&&s!==i&&t(r,s,{get:()=>e[s],enumerable:!(a=p(e,s))||a.enumerable});return r};var y=(r,e,i)=>(i=r!=null?d(m(r)):{},o(e||!r||!r.__esModule?t(i,\"default\",{value:r,enumerable:!0}):i,r)),x=r=>o(t({},\"__esModule\",{value:!0}),r);var c=f((D,l)=>{l.exports=_jsx_runtime});var v={};b(v,{default:()=>_,frontmatter:()=>j});var n=y(c()),j={title:\"Project Elisha (Prefab Housing)\",slug:\"project-elisha\",summary:\"Open-source, modular prefab designs for disaster/humanitarian housing.\",stage:\"brainstorm\",priority:40,owner:\"Open Mission of Hope\",tags:[\"housing\",\"hardware\",\"design\"]};function h(r){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},r.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Research and prototyping for replicable shelter systems.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"The Need\"}),`\n`,(0,n.jsx)(e.p,{children:\"Disasters and humanitarian crises create immediate housing needs. Current solutions are often expensive, slow, or culturally inappropriate. We believe open-source design can help.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Vision\"}),`\n`,(0,n.jsx)(e.p,{children:\"Create modular, prefab housing designs that are:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Affordable\"}),\": Designed for low-cost materials and simple assembly\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Adaptable\"}),\": Modular components that work in different climates and cultures\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Dignified\"}),\": Real homes, not just emergency shelter\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Replicable\"}),\": Open-source plans anyone can build from\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Sustainable\"}),\": Environmentally responsible materials and methods\"]}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Named After Elisha\"}),`\n`,(0,n.jsx)(e.p,{children:\"The prophet Elisha performed miracles of provision and restoration, including preparing a room for a traveling prophet. This project honors that spirit of hospitality and practical care.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Current Status\"}),`\n`,(0,n.jsx)(e.p,{children:\"Early research phase. We're studying existing prefab systems, consulting with humanitarian architects, and exploring manufacturing partnerships.\"})]})}function w(r={}){let{wrapper:e}=r.components||{};return e?(0,n.jsx)(e,Object.assign({},r,{children:(0,n.jsx)(h,r)})):h(r)}var _=w;return x(v);})();\n;return Component;"
+        },
+        "_id": "ideas/project-elisha.mdx",
+        "_raw": {
+          "sourceFilePath": "ideas/project-elisha.mdx",
+          "sourceFileName": "project-elisha.mdx",
+          "sourceFileDir": "ideas",
+          "contentType": "mdx",
+          "flattenedPath": "ideas/project-elisha"
+        },
+        "type": "Idea",
+        "url": "/incubator#project-elisha"
+      },
+      "documentHash": "1762230067767",
+      "hasWarnings": false,
+      "documentTypeName": "Idea"
+    },
+    "ideas/purrbuild.mdx": {
+      "document": {
+        "title": "PurrBuild",
+        "slug": "purrbuild",
+        "summary": "A simulation/game that teaches how to rebuild trust, infrastructure, and health in fragile contexts.",
+        "stage": "incubating",
+        "priority": 30,
+        "owner": "Pawprint Studio",
+        "tags": [
+          "education",
+          "game",
+          "civics"
+        ],
+        "body": {
+          "raw": "\nBoard + digital modules that illustrate entropy vs. order, incentives, and the power of honest systems.\n\n## The Concept\n\nPurrBuild is an educational game that simulates community rebuilding after crisis or in fragile states. Players make decisions about resource allocation, trust-building, infrastructure development, and governance—and see the consequences unfold.\n\n## What Players Learn\n\n- **Systems Thinking**: How infrastructure, health, and governance interconnect\n- **Incentive Design**: Why good intentions aren't enough without aligned incentives\n- **Trust Dynamics**: How trust is built slowly and destroyed quickly\n- **Transparency's Power**: The practical benefits of honest, open systems\n- **Long-term Thinking**: Balancing immediate needs with sustainable solutions\n\n## Design Philosophy\n\nCombining board game tactility with digital simulation depth. The physical components create social engagement, while digital modules handle complex calculations and scenarios.\n\n## Why \"PurrBuild\"?\n\nDeveloped by Pawprint Studio, the name evokes both construction (building) and the patient, persistent work of restoration (purring as a healing vibration).\n\n## Current Status\n\nPrototype development in partnership with humanitarian practitioners and game designers. Testing with education and training organizations.\n",
+          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var y=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),b=(t,n)=>{for(var i in n)a(t,i,{get:n[i],enumerable:!0})},o=(t,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of g(n))!p.call(t,r)&&r!==i&&a(t,r,{get:()=>n[r],enumerable:!(s=u(n,r))||s.enumerable});return t};var w=(t,n,i)=>(i=t!=null?h(m(t)):{},o(n||!t||!t.__esModule?a(i,\"default\",{value:t,enumerable:!0}):i,t)),f=t=>o(a({},\"__esModule\",{value:!0}),t);var c=y((_,l)=>{l.exports=_jsx_runtime});var T={};b(T,{default:()=>P,frontmatter:()=>v});var e=w(c()),v={title:\"PurrBuild\",slug:\"purrbuild\",summary:\"A simulation/game that teaches how to rebuild trust, infrastructure, and health in fragile contexts.\",stage:\"incubating\",priority:30,owner:\"Pawprint Studio\",tags:[\"education\",\"game\",\"civics\"]};function d(t){let n=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},t.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"Board + digital modules that illustrate entropy vs. order, incentives, and the power of honest systems.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"The Concept\"}),`\n`,(0,e.jsx)(n.p,{children:\"PurrBuild is an educational game that simulates community rebuilding after crisis or in fragile states. Players make decisions about resource allocation, trust-building, infrastructure development, and governance\\u2014and see the consequences unfold.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"What Players Learn\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Systems Thinking\"}),\": How infrastructure, health, and governance interconnect\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Incentive Design\"}),\": Why good intentions aren't enough without aligned incentives\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Trust Dynamics\"}),\": How trust is built slowly and destroyed quickly\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Transparency's Power\"}),\": The practical benefits of honest, open systems\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Long-term Thinking\"}),\": Balancing immediate needs with sustainable solutions\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Design Philosophy\"}),`\n`,(0,e.jsx)(n.p,{children:\"Combining board game tactility with digital simulation depth. The physical components create social engagement, while digital modules handle complex calculations and scenarios.\"}),`\n`,(0,e.jsx)(n.h2,{children:'Why \"PurrBuild\"?'}),`\n`,(0,e.jsx)(n.p,{children:\"Developed by Pawprint Studio, the name evokes both construction (building) and the patient, persistent work of restoration (purring as a healing vibration).\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Current Status\"}),`\n`,(0,e.jsx)(n.p,{children:\"Prototype development in partnership with humanitarian practitioners and game designers. Testing with education and training organizations.\"})]})}function x(t={}){let{wrapper:n}=t.components||{};return n?(0,e.jsx)(n,Object.assign({},t,{children:(0,e.jsx)(d,t)})):d(t)}var P=x;return f(T);})();\n;return Component;"
+        },
+        "_id": "ideas/purrbuild.mdx",
+        "_raw": {
+          "sourceFilePath": "ideas/purrbuild.mdx",
+          "sourceFileName": "purrbuild.mdx",
+          "sourceFileDir": "ideas",
+          "contentType": "mdx",
+          "flattenedPath": "ideas/purrbuild"
+        },
+        "type": "Idea",
+        "url": "/incubator#purrbuild"
+      },
+      "documentHash": "1762230081752",
+      "hasWarnings": false,
+      "documentTypeName": "Idea"
+    },
+    "ideas/toivo.mdx": {
+      "document": {
+        "title": "Toivo",
+        "slug": "toivo",
+        "summary": "On-chain receipts and transparent disbursements for mercy work.",
+        "stage": "incubating",
+        "priority": 0,
+        "owner": "Open Mission of Hope",
+        "tags": [
+          "transparency",
+          "blockchain",
+          "donations"
+        ],
+        "body": {
+          "raw": "\nToivo will be the blockchain spine: donations in, receipts out, milestone-based disbursements, and public dashboards.\n\n## Vision\n\nEvery dollar given for humanitarian work should be traceable from donor to impact. Toivo uses blockchain technology to create immutable records of donations, disbursements, and outcomes—making charity transparent by default.\n\n## How It Will Work\n\n1. **Donate**: Contributors receive instant blockchain receipts\n2. **Track**: Funds are released based on verified milestones\n3. **Verify**: Public dashboards show real-time fund flows\n4. **Impact**: Connect donations directly to documented outcomes\n\n## Why Blockchain?\n\nTraditional charity often lacks transparency. Blockchain provides an immutable, public ledger that can't be altered—building trust through technology.\n\n## Current Status\n\nWe're researching the best blockchain platforms and designing the smart contract architecture. Early prototypes are in development.\n",
+          "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var g=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),f=(t,n)=>{for(var r in n)i(t,r,{get:n[r],enumerable:!0})},a=(t,n,r,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of m(n))!b.call(t,o)&&o!==r&&i(t,o,{get:()=>n[o],enumerable:!(s=u(n,o))||s.enumerable});return t};var y=(t,n,r)=>(r=t!=null?h(p(t)):{},a(n||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),k=t=>a(i({},\"__esModule\",{value:!0}),t);var l=g((C,c)=>{c.exports=_jsx_runtime});var j={};f(j,{default:()=>w,frontmatter:()=>v});var e=y(l()),v={title:\"Toivo\",slug:\"toivo\",summary:\"On-chain receipts and transparent disbursements for mercy work.\",stage:\"incubating\",priority:0,owner:\"Open Mission of Hope\",tags:[\"transparency\",\"blockchain\",\"donations\"]};function d(t){let n=Object.assign({p:\"p\",h2:\"h2\",ol:\"ol\",li:\"li\",strong:\"strong\"},t.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"Toivo will be the blockchain spine: donations in, receipts out, milestone-based disbursements, and public dashboards.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Vision\"}),`\n`,(0,e.jsx)(n.p,{children:\"Every dollar given for humanitarian work should be traceable from donor to impact. Toivo uses blockchain technology to create immutable records of donations, disbursements, and outcomes\\u2014making charity transparent by default.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"How It Will Work\"}),`\n`,(0,e.jsxs)(n.ol,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Donate\"}),\": Contributors receive instant blockchain receipts\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Track\"}),\": Funds are released based on verified milestones\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Verify\"}),\": Public dashboards show real-time fund flows\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Impact\"}),\": Connect donations directly to documented outcomes\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Why Blockchain?\"}),`\n`,(0,e.jsx)(n.p,{children:\"Traditional charity often lacks transparency. Blockchain provides an immutable, public ledger that can't be altered\\u2014building trust through technology.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Current Status\"}),`\n`,(0,e.jsx)(n.p,{children:\"We're researching the best blockchain platforms and designing the smart contract architecture. Early prototypes are in development.\"})]})}function x(t={}){let{wrapper:n}=t.components||{};return n?(0,e.jsx)(n,Object.assign({},t,{children:(0,e.jsx)(d,t)})):d(t)}var w=x;return k(j);})();\n;return Component;"
+        },
+        "_id": "ideas/toivo.mdx",
+        "_raw": {
+          "sourceFilePath": "ideas/toivo.mdx",
+          "sourceFileName": "toivo.mdx",
+          "sourceFileDir": "ideas",
+          "contentType": "mdx",
+          "flattenedPath": "ideas/toivo"
+        },
+        "type": "Idea",
+        "url": "/incubator#toivo"
+      },
+      "documentHash": "1762230044384",
+      "hasWarnings": false,
+      "documentTypeName": "Idea"
+    },
+    "programs/maisha.mdx": {
+      "document": {
+        "title": "Maisha",
+        "slug": "maisha",
+        "summary": "A practical, faith-aligned knowledge commons for health, WASH, and community resilience—curated by regional editors.",
+        "status": "active",
+        "owner": "Regional Editors (SSA) + Open Mission of Hope",
+        "body": {
+          "raw": "\nMaisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\n\n## Our Approach\n\nKnowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities—grounded in both evidence and faith.\n\n## What We Cover\n\n- Community health best practices\n- Water and sanitation solutions\n- Nutrition and food security\n- Disease prevention and response\n- Traditional wisdom integrated with modern approaches\n\n## Leadership\n\nRegional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\n",
+          "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var i in e)r(n,i,{get:e[i],enumerable:!0})},s=(n,e,i,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!f.call(n,a)&&a!==i&&r(n,a,{get:()=>e[a],enumerable:!(o=u(e,a))||o.enumerable});return n};var x=(n,e,i)=>(i=n!=null?d(m(n)):{},s(e||!n||!n.__esModule?r(i,\"default\",{value:n,enumerable:!0}):i,n)),y=n=>s(r({},\"__esModule\",{value:!0}),n);var l=g((v,c)=>{c.exports=_jsx_runtime});var S={};w(S,{default:()=>M,frontmatter:()=>b});var t=x(l()),b={title:\"Maisha\",slug:\"maisha\",summary:\"A practical, faith-aligned knowledge commons for health, WASH, and community resilience\\u2014curated by regional editors.\",status:\"active\",owner:\"Regional Editors (SSA) + Open Mission of Hope\"};function h(n){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},n.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Maisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,t.jsx)(e.p,{children:\"Knowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities\\u2014grounded in both evidence and faith.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"What We Cover\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsx)(e.li,{children:\"Community health best practices\"}),`\n`,(0,t.jsx)(e.li,{children:\"Water and sanitation solutions\"}),`\n`,(0,t.jsx)(e.li,{children:\"Nutrition and food security\"}),`\n`,(0,t.jsx)(e.li,{children:\"Disease prevention and response\"}),`\n`,(0,t.jsx)(e.li,{children:\"Traditional wisdom integrated with modern approaches\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Leadership\"}),`\n`,(0,t.jsx)(e.p,{children:\"Regional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\"})]})}function j(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,Object.assign({},n,{children:(0,t.jsx)(h,n)})):h(n)}var M=j;return y(S);})();\n;return Component;"
+        },
+        "_id": "programs/maisha.mdx",
+        "_raw": {
+          "sourceFilePath": "programs/maisha.mdx",
+          "sourceFileName": "maisha.mdx",
+          "sourceFileDir": "programs",
+          "contentType": "mdx",
+          "flattenedPath": "programs/maisha"
+        },
+        "type": "Program",
+        "url": "/programs/maisha"
+      },
+      "documentHash": "1762230011116",
+      "hasWarnings": false,
+      "documentTypeName": "Program"
+    },
+    "programs/naloxoneforall.mdx": {
+      "document": {
+        "title": "NaloxoneForAll",
+        "slug": "naloxoneforall",
+        "summary": "Community-led overdose response: awareness, kits, and transparent reporting.",
+        "status": "active",
+        "owner": "Community Leaders (US/Canada) + Open Mission of Hope",
+        "hero": "/images/hero-naloxone.jpg",
+        "body": {
+          "raw": "\nWe support local coordinators to reduce overdose deaths with training, awareness, and distribution transparency.\n\n## Our Mission\n\nThe opioid crisis demands a compassionate, community-based response. NaloxoneForAll equips local leaders to save lives through education, access to naloxone kits, and transparent reporting of our impact.\n\n## What We Provide\n\n- **Training**: Evidence-based overdose recognition and response training\n- **Kits**: Coordinated naloxone kit distribution through community partners\n- **Transparency**: Public reporting of distribution and outcomes\n- **Support**: Resources for community coordinators and volunteers\n\n## Who We Serve\n\nWe partner with churches, community centers, harm reduction organizations, and local leaders in the US and Canada who are committed to reducing overdose deaths with dignity and compassion.\n\n## Get Involved\n\nWhether you want to become a community coordinator, volunteer, or support this work financially, there's a place for you in this life-saving mission.\n",
+          "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(o,n)=>()=>(n||o((n={exports:{}}).exports,n),n.exports),x=(o,n)=>{for(var r in n)i(o,r,{get:n[r],enumerable:!0})},a=(o,n,r,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of m(n))!g.call(o,t)&&t!==r&&i(o,t,{get:()=>n[t],enumerable:!(s=u(n,t))||s.enumerable});return o};var y=(o,n,r)=>(r=o!=null?h(p(o)):{},a(n||!o||!o.__esModule?i(r,\"default\",{value:o,enumerable:!0}):r,o)),f=o=>a(i({},\"__esModule\",{value:!0}),o);var d=v((_,c)=>{c.exports=_jsx_runtime});var C={};x(C,{default:()=>j,frontmatter:()=>w});var e=y(d()),w={title:\"NaloxoneForAll\",slug:\"naloxoneforall\",summary:\"Community-led overdose response: awareness, kits, and transparent reporting.\",status:\"active\",owner:\"Community Leaders (US/Canada) + Open Mission of Hope\",hero:\"/images/hero-naloxone.jpg\"};function l(o){let n=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},o.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"We support local coordinators to reduce overdose deaths with training, awareness, and distribution transparency.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Our Mission\"}),`\n`,(0,e.jsx)(n.p,{children:\"The opioid crisis demands a compassionate, community-based response. NaloxoneForAll equips local leaders to save lives through education, access to naloxone kits, and transparent reporting of our impact.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"What We Provide\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Training\"}),\": Evidence-based overdose recognition and response training\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Kits\"}),\": Coordinated naloxone kit distribution through community partners\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Transparency\"}),\": Public reporting of distribution and outcomes\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Support\"}),\": Resources for community coordinators and volunteers\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Who We Serve\"}),`\n`,(0,e.jsx)(n.p,{children:\"We partner with churches, community centers, harm reduction organizations, and local leaders in the US and Canada who are committed to reducing overdose deaths with dignity and compassion.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Get Involved\"}),`\n`,(0,e.jsx)(n.p,{children:\"Whether you want to become a community coordinator, volunteer, or support this work financially, there's a place for you in this life-saving mission.\"})]})}function b(o={}){let{wrapper:n}=o.components||{};return n?(0,e.jsx)(n,Object.assign({},o,{children:(0,e.jsx)(l,o)})):l(o)}var j=b;return f(C);})();\n;return Component;"
+        },
+        "_id": "programs/naloxoneforall.mdx",
+        "_raw": {
+          "sourceFilePath": "programs/naloxoneforall.mdx",
+          "sourceFileName": "naloxoneforall.mdx",
+          "sourceFileDir": "programs",
+          "contentType": "mdx",
+          "flattenedPath": "programs/naloxoneforall"
+        },
+        "type": "Program",
+        "url": "/programs/naloxoneforall"
+      },
+      "documentHash": "1762230021870",
+      "hasWarnings": false,
+      "documentTypeName": "Program"
+    },
+    "programs/prayer.mdx": {
+      "document": {
+        "title": "Prayer Site",
+        "slug": "prayer",
+        "summary": "Weekly edited prayer alerts for global emergencies, surfaced by AI and curated by a human editor.",
+        "status": "active",
+        "owner": "Open Mission of Hope",
+        "body": {
+          "raw": "\nOur prayer hub surfaces urgent needs worldwide. AI helps us scan signals; a human editor curates weekly, adds scripture, and links to trusted updates.\n\n## How It Works\n\nEach week, our system monitors global news and humanitarian signals. A dedicated editor reviews these alerts, adds scriptural context, and publishes curated prayer requests that help believers pray with specificity and faith.\n\n## Get Involved\n\nSubscribe to receive weekly prayer alerts, or volunteer as a regional prayer editor to help curate needs from your area.\n",
+          "code": "var Component=(()=>{var u=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),g=(r,e)=>{for(var s in e)n(r,s,{get:e[s],enumerable:!0})},o=(r,e,s,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of h(e))!y.call(r,a)&&a!==s&&n(r,a,{get:()=>e[a],enumerable:!(i=p(e,a))||i.enumerable});return r};var b=(r,e,s)=>(s=r!=null?u(m(r)):{},o(e||!r||!r.__esModule?n(s,\"default\",{value:r,enumerable:!0}):s,r)),w=r=>o(n({},\"__esModule\",{value:!0}),r);var c=f((I,d)=>{d.exports=_jsx_runtime});var _={};g(_,{default:()=>v,frontmatter:()=>x});var t=b(c()),x={title:\"Prayer Site\",slug:\"prayer\",summary:\"Weekly edited prayer alerts for global emergencies, surfaced by AI and curated by a human editor.\",status:\"active\",owner:\"Open Mission of Hope\"};function l(r){let e=Object.assign({p:\"p\",h2:\"h2\"},r.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Our prayer hub surfaces urgent needs worldwide. AI helps us scan signals; a human editor curates weekly, adds scripture, and links to trusted updates.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"How It Works\"}),`\n`,(0,t.jsx)(e.p,{children:\"Each week, our system monitors global news and humanitarian signals. A dedicated editor reviews these alerts, adds scriptural context, and publishes curated prayer requests that help believers pray with specificity and faith.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Get Involved\"}),`\n`,(0,t.jsx)(e.p,{children:\"Subscribe to receive weekly prayer alerts, or volunteer as a regional prayer editor to help curate needs from your area.\"})]})}function j(r={}){let{wrapper:e}=r.components||{};return e?(0,t.jsx)(e,Object.assign({},r,{children:(0,t.jsx)(l,r)})):l(r)}var v=j;return w(_);})();\n;return Component;"
+        },
+        "_id": "programs/prayer.mdx",
+        "_raw": {
+          "sourceFilePath": "programs/prayer.mdx",
+          "sourceFileName": "prayer.mdx",
+          "sourceFileDir": "programs",
+          "contentType": "mdx",
+          "flattenedPath": "programs/prayer"
+        },
+        "type": "Program",
+        "url": "/programs/prayer"
+      },
+      "documentHash": "1762229999015",
+      "hasWarnings": false,
+      "documentTypeName": "Program"
+    },
+    "updates/welcome.mdx": {
+      "document": {
+        "title": "Welcome to Open Mission of Hope",
+        "slug": "welcome",
+        "date": "2024-01-15T00:00:00.000Z",
+        "summary": "Introducing our mission to bring transparency, open-source tools, and biblical values to humanitarian work.",
+        "body": {
+          "raw": "\nWelcome to Open Mission of Hope. We're building something different: humanitarian infrastructure that's radically transparent, completely open-source, and rooted in biblical values.\n\n## Why We Exist\n\nThe world needs more mercy work—but it also needs better mercy work. Too often, humanitarian efforts suffer from:\n- Opaque finances that erode donor trust\n- Proprietary tools that create vendor lock-in\n- Top-down approaches that ignore local knowledge\n- Mission drift that compromises founding values\n\nWe believe there's a better way.\n\n## What We're Building\n\n### Active Programs\n\nWe're launching with three active programs:\n\n**Prayer Site** surfaces urgent global needs, curated by human editors with AI assistance. Weekly alerts help believers pray with specificity.\n\n**Maisha** is a knowledge commons for health, WASH, and resilience—curated by regional editors in Sub-Saharan Africa, hosted by us.\n\n**NaloxoneForAll** supports community-led overdose response with training, kits, and transparent reporting.\n\n### The Incubator\n\nOur incubator holds projects in development, with **Toivo** at the top: a blockchain-based platform for transparent donations and disbursements. Every dollar traceable from donor to impact.\n\n## Our Approach\n\nWe don't directly operate most programs. Instead, we build infrastructure that enables others to serve well:\n- Open-source tools anyone can use\n- Standards that preserve mission integrity\n- Coordination for community-led work\n- Transparency systems that make accountability automatic\n\n## Why Open Source?\n\nMercy work is too important for proprietary lock-in. When humanitarian tools are open-source:\n- Anyone can audit the code\n- Communities can adapt tools to their context\n- No vendor lock-in traps organizations\n- Trust is built through transparency\n\n## Why Blockchain?\n\nFor Toivo, we chose blockchain not because it's trendy, but because it solves a real problem: trust. An immutable, public ledger means:\n- Donations can't be hidden or altered\n- Fund flows are automatically documented\n- Verification doesn't require trusting intermediaries\n- Transparency is the default, not an aspiration\n\n## What's Next\n\nOver the coming months, we'll be:\n1. Launching Prayer Site with our first curated alerts\n2. Onboarding regional editors for Maisha\n3. Establishing NaloxoneForAll coordinator partnerships\n4. Prototyping Toivo smart contracts\n5. Drafting the Christian Open Source License\n\n## Get Involved\n\nThis work belongs to the global church, not to us alone. We welcome:\n- **Developers** to build tools\n- **Editors** to curate content\n- **Donors** to fund operations\n- **Partners** to deploy programs\n- **Pray-ers** to intercede\n\nSubscribe to this blog for updates, or reach out directly: [hello@openmissionhope.org](mailto:hello@openmissionhope.org)\n\n---\n\n*\"Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.\"* — James 1:27\n\nLet's build systems worthy of that calling.\n",
+          "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var b=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),f=(r,e)=>{for(var i in e)o(r,i,{get:e[i],enumerable:!0})},a=(r,e,i,l)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!g.call(r,t)&&t!==i&&o(r,t,{get:()=>e[t],enumerable:!(l=u(e,t))||l.enumerable});return r};var y=(r,e,i)=>(i=r!=null?d(m(r)):{},a(e||!r||!r.__esModule?o(i,\"default\",{value:r,enumerable:!0}):i,r)),w=r=>a(o({},\"__esModule\",{value:!0}),r);var c=b((T,s)=>{s.exports=_jsx_runtime});var x={};f(x,{default:()=>W,frontmatter:()=>v});var n=y(c()),v={title:\"Welcome to Open Mission of Hope\",slug:\"welcome\",date:new Date(17052768e5),summary:\"Introducing our mission to bring transparency, open-source tools, and biblical values to humanitarian work.\"};function h(r){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",h3:\"h3\",strong:\"strong\",ol:\"ol\",a:\"a\",hr:\"hr\",em:\"em\"},r.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Welcome to Open Mission of Hope. We're building something different: humanitarian infrastructure that's radically transparent, completely open-source, and rooted in biblical values.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Why We Exist\"}),`\n`,(0,n.jsx)(e.p,{children:\"The world needs more mercy work\\u2014but it also needs better mercy work. Too often, humanitarian efforts suffer from:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Opaque finances that erode donor trust\"}),`\n`,(0,n.jsx)(e.li,{children:\"Proprietary tools that create vendor lock-in\"}),`\n`,(0,n.jsx)(e.li,{children:\"Top-down approaches that ignore local knowledge\"}),`\n`,(0,n.jsx)(e.li,{children:\"Mission drift that compromises founding values\"}),`\n`]}),`\n`,(0,n.jsx)(e.p,{children:\"We believe there's a better way.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"What We're Building\"}),`\n`,(0,n.jsx)(e.h3,{children:\"Active Programs\"}),`\n`,(0,n.jsx)(e.p,{children:\"We're launching with three active programs:\"}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Prayer Site\"}),\" surfaces urgent global needs, curated by human editors with AI assistance. Weekly alerts help believers pray with specificity.\"]}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Maisha\"}),\" is a knowledge commons for health, WASH, and resilience\\u2014curated by regional editors in Sub-Saharan Africa, hosted by us.\"]}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"NaloxoneForAll\"}),\" supports community-led overdose response with training, kits, and transparent reporting.\"]}),`\n`,(0,n.jsx)(e.h3,{children:\"The Incubator\"}),`\n`,(0,n.jsxs)(e.p,{children:[\"Our incubator holds projects in development, with \",(0,n.jsx)(e.strong,{children:\"Toivo\"}),\" at the top: a blockchain-based platform for transparent donations and disbursements. Every dollar traceable from donor to impact.\"]}),`\n`,(0,n.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,n.jsx)(e.p,{children:\"We don't directly operate most programs. Instead, we build infrastructure that enables others to serve well:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Open-source tools anyone can use\"}),`\n`,(0,n.jsx)(e.li,{children:\"Standards that preserve mission integrity\"}),`\n`,(0,n.jsx)(e.li,{children:\"Coordination for community-led work\"}),`\n`,(0,n.jsx)(e.li,{children:\"Transparency systems that make accountability automatic\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Why Open Source?\"}),`\n`,(0,n.jsx)(e.p,{children:\"Mercy work is too important for proprietary lock-in. When humanitarian tools are open-source:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Anyone can audit the code\"}),`\n`,(0,n.jsx)(e.li,{children:\"Communities can adapt tools to their context\"}),`\n`,(0,n.jsx)(e.li,{children:\"No vendor lock-in traps organizations\"}),`\n`,(0,n.jsx)(e.li,{children:\"Trust is built through transparency\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Why Blockchain?\"}),`\n`,(0,n.jsx)(e.p,{children:\"For Toivo, we chose blockchain not because it's trendy, but because it solves a real problem: trust. An immutable, public ledger means:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Donations can't be hidden or altered\"}),`\n`,(0,n.jsx)(e.li,{children:\"Fund flows are automatically documented\"}),`\n`,(0,n.jsx)(e.li,{children:\"Verification doesn't require trusting intermediaries\"}),`\n`,(0,n.jsx)(e.li,{children:\"Transparency is the default, not an aspiration\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"What's Next\"}),`\n`,(0,n.jsx)(e.p,{children:\"Over the coming months, we'll be:\"}),`\n`,(0,n.jsxs)(e.ol,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Launching Prayer Site with our first curated alerts\"}),`\n`,(0,n.jsx)(e.li,{children:\"Onboarding regional editors for Maisha\"}),`\n`,(0,n.jsx)(e.li,{children:\"Establishing NaloxoneForAll coordinator partnerships\"}),`\n`,(0,n.jsx)(e.li,{children:\"Prototyping Toivo smart contracts\"}),`\n`,(0,n.jsx)(e.li,{children:\"Drafting the Christian Open Source License\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Get Involved\"}),`\n`,(0,n.jsx)(e.p,{children:\"This work belongs to the global church, not to us alone. We welcome:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Developers\"}),\" to build tools\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Editors\"}),\" to curate content\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Donors\"}),\" to fund operations\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Partners\"}),\" to deploy programs\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Pray-ers\"}),\" to intercede\"]}),`\n`]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Subscribe to this blog for updates, or reach out directly: \",(0,n.jsx)(e.a,{href:\"mailto:hello@openmissionhope.org\",children:\"hello@openmissionhope.org\"})]}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.em,{children:'\"Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.\"'}),\" \\u2014 James 1:27\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Let's build systems worthy of that calling.\"})]})}function k(r={}){let{wrapper:e}=r.components||{};return e?(0,n.jsx)(e,Object.assign({},r,{children:(0,n.jsx)(h,r)})):h(r)}var W=k;return w(x);})();\n;return Component;"
+        },
+        "_id": "updates/welcome.mdx",
+        "_raw": {
+          "sourceFilePath": "updates/welcome.mdx",
+          "sourceFileName": "welcome.mdx",
+          "sourceFileDir": "updates",
+          "contentType": "mdx",
+          "flattenedPath": "updates/welcome"
+        },
+        "type": "Update",
+        "url": "/updates/welcome"
+      },
+      "documentHash": "1762230374951",
+      "hasWarnings": false,
+      "documentTypeName": "Update"
+    }
+  }
+}

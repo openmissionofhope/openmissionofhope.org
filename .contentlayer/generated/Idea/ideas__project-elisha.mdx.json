@@ -1,0 +1,27 @@
+{
+  "title": "Project Elisha (Prefab Housing)",
+  "slug": "project-elisha",
+  "summary": "Open-source, modular prefab designs for disaster/humanitarian housing.",
+  "stage": "brainstorm",
+  "priority": 40,
+  "owner": "Open Mission of Hope",
+  "tags": [
+    "housing",
+    "hardware",
+    "design"
+  ],
+  "body": {
+    "raw": "\nResearch and prototyping for replicable shelter systems.\n\n## The Need\n\nDisasters and humanitarian crises create immediate housing needs. Current solutions are often expensive, slow, or culturally inappropriate. We believe open-source design can help.\n\n## Vision\n\nCreate modular, prefab housing designs that are:\n- **Affordable**: Designed for low-cost materials and simple assembly\n- **Adaptable**: Modular components that work in different climates and cultures\n- **Dignified**: Real homes, not just emergency shelter\n- **Replicable**: Open-source plans anyone can build from\n- **Sustainable**: Environmentally responsible materials and methods\n\n## Named After Elisha\n\nThe prophet Elisha performed miracles of provision and restoration, including preparing a room for a traveling prophet. This project honors that spirit of hospitality and practical care.\n\n## Current Status\n\nEarly research phase. We're studying existing prefab systems, consulting with humanitarian architects, and exploring manufacturing partnerships.\n",
+    "code": "var Component=(()=>{var d=Object.create;var t=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),b=(r,e)=>{for(var i in e)t(r,i,{get:e[i],enumerable:!0})},o=(r,e,i,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!g.call(r,s)&&s!==i&&t(r,s,{get:()=>e[s],enumerable:!(a=p(e,s))||a.enumerable});return r};var y=(r,e,i)=>(i=r!=null?d(m(r)):{},o(e||!r||!r.__esModule?t(i,\"default\",{value:r,enumerable:!0}):i,r)),x=r=>o(t({},\"__esModule\",{value:!0}),r);var c=f((D,l)=>{l.exports=_jsx_runtime});var v={};b(v,{default:()=>_,frontmatter:()=>j});var n=y(c()),j={title:\"Project Elisha (Prefab Housing)\",slug:\"project-elisha\",summary:\"Open-source, modular prefab designs for disaster/humanitarian housing.\",stage:\"brainstorm\",priority:40,owner:\"Open Mission of Hope\",tags:[\"housing\",\"hardware\",\"design\"]};function h(r){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},r.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Research and prototyping for replicable shelter systems.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"The Need\"}),`\n`,(0,n.jsx)(e.p,{children:\"Disasters and humanitarian crises create immediate housing needs. Current solutions are often expensive, slow, or culturally inappropriate. We believe open-source design can help.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Vision\"}),`\n`,(0,n.jsx)(e.p,{children:\"Create modular, prefab housing designs that are:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Affordable\"}),\": Designed for low-cost materials and simple assembly\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Adaptable\"}),\": Modular components that work in different climates and cultures\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Dignified\"}),\": Real homes, not just emergency shelter\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Replicable\"}),\": Open-source plans anyone can build from\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Sustainable\"}),\": Environmentally responsible materials and methods\"]}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Named After Elisha\"}),`\n`,(0,n.jsx)(e.p,{children:\"The prophet Elisha performed miracles of provision and restoration, including preparing a room for a traveling prophet. This project honors that spirit of hospitality and practical care.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Current Status\"}),`\n`,(0,n.jsx)(e.p,{children:\"Early research phase. We're studying existing prefab systems, consulting with humanitarian architects, and exploring manufacturing partnerships.\"})]})}function w(r={}){let{wrapper:e}=r.components||{};return e?(0,n.jsx)(e,Object.assign({},r,{children:(0,n.jsx)(h,r)})):h(r)}var _=w;return x(v);})();\n;return Component;"
+  },
+  "_id": "ideas/project-elisha.mdx",
+  "_raw": {
+    "sourceFilePath": "ideas/project-elisha.mdx",
+    "sourceFileName": "project-elisha.mdx",
+    "sourceFileDir": "ideas",
+    "contentType": "mdx",
+    "flattenedPath": "ideas/project-elisha"
+  },
+  "type": "Idea",
+  "url": "/incubator#project-elisha"
+}

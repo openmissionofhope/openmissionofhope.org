@@ -1,0 +1,27 @@
+{
+  "title": "Christian Open Source License",
+  "slug": "christian-license",
+  "summary": "A biblically inspired license family that guards against value drift while preserving openness.",
+  "stage": "incubating",
+  "priority": 10,
+  "owner": "Open Mission of Hope",
+  "tags": [
+    "policy",
+    "legal",
+    "open-source"
+  ],
+  "body": {
+    "raw": "\nExploring a permissive-but-purpose-aligned license set for projects where mission integrity matters.\n\n## The Challenge\n\nOpen source has transformed software, but mission-driven organizations face a dilemma: how to remain open while protecting against value drift or misuse by actors with opposing values.\n\n## Our Approach\n\nWe're exploring a license family that:\n- Preserves the core freedoms of open source (use, modify, distribute)\n- Includes mission-aligned restrictions (e.g., use must align with biblical values)\n- Provides legal clarity for both creators and users\n- Offers tiered options from permissive to restrictive\n\n## Inspiration\n\nDrawing from biblical principles of stewardship, integrity, and faithful use of resources, while learning from existing licenses like Creative Commons and GPL.\n\n## Current Work\n\nLegal research, community consultation, and drafting initial license text. We're committed to getting this right—legally sound, theologically grounded, and practically useful.\n",
+    "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var f=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),y=(i,e)=>{for(var r in e)s(i,r,{get:e[r],enumerable:!0})},l=(i,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!m.call(i,t)&&t!==r&&s(i,t,{get:()=>e[t],enumerable:!(o=u(e,t))||o.enumerable});return i};var b=(i,e,r)=>(r=i!=null?d(g(i)):{},l(e||!i||!i.__esModule?s(r,\"default\",{value:i,enumerable:!0}):r,i)),x=i=>l(s({},\"__esModule\",{value:!0}),i);var c=f((_,a)=>{a.exports=_jsx_runtime});var C={};y(C,{default:()=>j,frontmatter:()=>v});var n=b(c()),v={title:\"Christian Open Source License\",slug:\"christian-license\",summary:\"A biblically inspired license family that guards against value drift while preserving openness.\",stage:\"incubating\",priority:10,owner:\"Open Mission of Hope\",tags:[\"policy\",\"legal\",\"open-source\"]};function h(i){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},i.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Exploring a permissive-but-purpose-aligned license set for projects where mission integrity matters.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"The Challenge\"}),`\n`,(0,n.jsx)(e.p,{children:\"Open source has transformed software, but mission-driven organizations face a dilemma: how to remain open while protecting against value drift or misuse by actors with opposing values.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,n.jsx)(e.p,{children:\"We're exploring a license family that:\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Preserves the core freedoms of open source (use, modify, distribute)\"}),`\n`,(0,n.jsx)(e.li,{children:\"Includes mission-aligned restrictions (e.g., use must align with biblical values)\"}),`\n`,(0,n.jsx)(e.li,{children:\"Provides legal clarity for both creators and users\"}),`\n`,(0,n.jsx)(e.li,{children:\"Offers tiered options from permissive to restrictive\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Inspiration\"}),`\n`,(0,n.jsx)(e.p,{children:\"Drawing from biblical principles of stewardship, integrity, and faithful use of resources, while learning from existing licenses like Creative Commons and GPL.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Current Work\"}),`\n`,(0,n.jsx)(e.p,{children:\"Legal research, community consultation, and drafting initial license text. We're committed to getting this right\\u2014legally sound, theologically grounded, and practically useful.\"})]})}function w(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,Object.assign({},i,{children:(0,n.jsx)(h,i)})):h(i)}var j=w;return x(C);})();\n;return Component;"
+  },
+  "_id": "ideas/christian-license.mdx",
+  "_raw": {
+    "sourceFilePath": "ideas/christian-license.mdx",
+    "sourceFileName": "christian-license.mdx",
+    "sourceFileDir": "ideas",
+    "contentType": "mdx",
+    "flattenedPath": "ideas/christian-license"
+  },
+  "type": "Idea",
+  "url": "/incubator#christian-license"
+}

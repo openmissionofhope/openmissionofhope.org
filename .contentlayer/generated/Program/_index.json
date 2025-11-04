@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Maisha",
+    "slug": "maisha",
+    "summary": "A practical, faith-aligned knowledge commons for health, WASH, and community resilience—curated by regional editors.",
+    "status": "active",
+    "owner": "Regional Editors (SSA) + Open Mission of Hope",
+    "body": {
+      "raw": "\nMaisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\n\n## Our Approach\n\nKnowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities—grounded in both evidence and faith.\n\n## What We Cover\n\n- Community health best practices\n- Water and sanitation solutions\n- Nutrition and food security\n- Disease prevention and response\n- Traditional wisdom integrated with modern approaches\n\n## Leadership\n\nRegional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\n",
+      "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var i in e)r(n,i,{get:e[i],enumerable:!0})},s=(n,e,i,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!f.call(n,a)&&a!==i&&r(n,a,{get:()=>e[a],enumerable:!(o=u(e,a))||o.enumerable});return n};var x=(n,e,i)=>(i=n!=null?d(m(n)):{},s(e||!n||!n.__esModule?r(i,\"default\",{value:n,enumerable:!0}):i,n)),y=n=>s(r({},\"__esModule\",{value:!0}),n);var l=g((v,c)=>{c.exports=_jsx_runtime});var S={};w(S,{default:()=>M,frontmatter:()=>b});var t=x(l()),b={title:\"Maisha\",slug:\"maisha\",summary:\"A practical, faith-aligned knowledge commons for health, WASH, and community resilience\\u2014curated by regional editors.\",status:\"active\",owner:\"Regional Editors (SSA) + Open Mission of Hope\"};function h(n){let e=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},n.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Maisha is an open library for practical mercy. People in Sub-Saharan Africa lead the curation; we host the infrastructure and uphold transparent standards.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Our Approach\"}),`\n`,(0,t.jsx)(e.p,{children:\"Knowledge is most effective when it's contextual. Maisha empowers regional editors to curate health, water, sanitation, and hygiene resources that work in their communities\\u2014grounded in both evidence and faith.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"What We Cover\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsx)(e.li,{children:\"Community health best practices\"}),`\n`,(0,t.jsx)(e.li,{children:\"Water and sanitation solutions\"}),`\n`,(0,t.jsx)(e.li,{children:\"Nutrition and food security\"}),`\n`,(0,t.jsx)(e.li,{children:\"Disease prevention and response\"}),`\n`,(0,t.jsx)(e.li,{children:\"Traditional wisdom integrated with modern approaches\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Leadership\"}),`\n`,(0,t.jsx)(e.p,{children:\"Regional editors from Sub-Saharan Africa lead content curation, ensuring cultural relevance and practical applicability.\"})]})}function j(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,Object.assign({},n,{children:(0,t.jsx)(h,n)})):h(n)}var M=j;return y(S);})();\n;return Component;"
+    },
+    "_id": "programs/maisha.mdx",
+    "_raw": {
+      "sourceFilePath": "programs/maisha.mdx",
+      "sourceFileName": "maisha.mdx",
+      "sourceFileDir": "programs",
+      "contentType": "mdx",
+      "flattenedPath": "programs/maisha"
+    },
+    "type": "Program",
+    "url": "/programs/maisha"
+  },
+  {
+    "title": "NaloxoneForAll",
+    "slug": "naloxoneforall",
+    "summary": "Community-led overdose response: awareness, kits, and transparent reporting.",
+    "status": "active",
+    "owner": "Community Leaders (US/Canada) + Open Mission of Hope",
+    "hero": "/images/hero-naloxone.jpg",
+    "body": {
+      "raw": "\nWe support local coordinators to reduce overdose deaths with training, awareness, and distribution transparency.\n\n## Our Mission\n\nThe opioid crisis demands a compassionate, community-based response. NaloxoneForAll equips local leaders to save lives through education, access to naloxone kits, and transparent reporting of our impact.\n\n## What We Provide\n\n- **Training**: Evidence-based overdose recognition and response training\n- **Kits**: Coordinated naloxone kit distribution through community partners\n- **Transparency**: Public reporting of distribution and outcomes\n- **Support**: Resources for community coordinators and volunteers\n\n## Who We Serve\n\nWe partner with churches, community centers, harm reduction organizations, and local leaders in the US and Canada who are committed to reducing overdose deaths with dignity and compassion.\n\n## Get Involved\n\nWhether you want to become a community coordinator, volunteer, or support this work financially, there's a place for you in this life-saving mission.\n",
+      "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(o,n)=>()=>(n||o((n={exports:{}}).exports,n),n.exports),x=(o,n)=>{for(var r in n)i(o,r,{get:n[r],enumerable:!0})},a=(o,n,r,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of m(n))!g.call(o,t)&&t!==r&&i(o,t,{get:()=>n[t],enumerable:!(s=u(n,t))||s.enumerable});return o};var y=(o,n,r)=>(r=o!=null?h(p(o)):{},a(n||!o||!o.__esModule?i(r,\"default\",{value:o,enumerable:!0}):r,o)),f=o=>a(i({},\"__esModule\",{value:!0}),o);var d=v((_,c)=>{c.exports=_jsx_runtime});var C={};x(C,{default:()=>j,frontmatter:()=>w});var e=y(d()),w={title:\"NaloxoneForAll\",slug:\"naloxoneforall\",summary:\"Community-led overdose response: awareness, kits, and transparent reporting.\",status:\"active\",owner:\"Community Leaders (US/Canada) + Open Mission of Hope\",hero:\"/images/hero-naloxone.jpg\"};function l(o){let n=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},o.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"We support local coordinators to reduce overdose deaths with training, awareness, and distribution transparency.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Our Mission\"}),`\n`,(0,e.jsx)(n.p,{children:\"The opioid crisis demands a compassionate, community-based response. NaloxoneForAll equips local leaders to save lives through education, access to naloxone kits, and transparent reporting of our impact.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"What We Provide\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Training\"}),\": Evidence-based overdose recognition and response training\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Kits\"}),\": Coordinated naloxone kit distribution through community partners\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Transparency\"}),\": Public reporting of distribution and outcomes\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Support\"}),\": Resources for community coordinators and volunteers\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Who We Serve\"}),`\n`,(0,e.jsx)(n.p,{children:\"We partner with churches, community centers, harm reduction organizations, and local leaders in the US and Canada who are committed to reducing overdose deaths with dignity and compassion.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Get Involved\"}),`\n`,(0,e.jsx)(n.p,{children:\"Whether you want to become a community coordinator, volunteer, or support this work financially, there's a place for you in this life-saving mission.\"})]})}function b(o={}){let{wrapper:n}=o.components||{};return n?(0,e.jsx)(n,Object.assign({},o,{children:(0,e.jsx)(l,o)})):l(o)}var j=b;return f(C);})();\n;return Component;"
+    },
+    "_id": "programs/naloxoneforall.mdx",
+    "_raw": {
+      "sourceFilePath": "programs/naloxoneforall.mdx",
+      "sourceFileName": "naloxoneforall.mdx",
+      "sourceFileDir": "programs",
+      "contentType": "mdx",
+      "flattenedPath": "programs/naloxoneforall"
+    },
+    "type": "Program",
+    "url": "/programs/naloxoneforall"
+  },
+  {
+    "title": "Prayer Site",
+    "slug": "prayer",
+    "summary": "Weekly edited prayer alerts for global emergencies, surfaced by AI and curated by a human editor.",
+    "status": "active",
+    "owner": "Open Mission of Hope",
+    "body": {
+      "raw": "\nOur prayer hub surfaces urgent needs worldwide. AI helps us scan signals; a human editor curates weekly, adds scripture, and links to trusted updates.\n\n## How It Works\n\nEach week, our system monitors global news and humanitarian signals. A dedicated editor reviews these alerts, adds scriptural context, and publishes curated prayer requests that help believers pray with specificity and faith.\n\n## Get Involved\n\nSubscribe to receive weekly prayer alerts, or volunteer as a regional prayer editor to help curate needs from your area.\n",
+      "code": "var Component=(()=>{var u=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),g=(r,e)=>{for(var s in e)n(r,s,{get:e[s],enumerable:!0})},o=(r,e,s,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of h(e))!y.call(r,a)&&a!==s&&n(r,a,{get:()=>e[a],enumerable:!(i=p(e,a))||i.enumerable});return r};var b=(r,e,s)=>(s=r!=null?u(m(r)):{},o(e||!r||!r.__esModule?n(s,\"default\",{value:r,enumerable:!0}):s,r)),w=r=>o(n({},\"__esModule\",{value:!0}),r);var c=f((I,d)=>{d.exports=_jsx_runtime});var _={};g(_,{default:()=>v,frontmatter:()=>x});var t=b(c()),x={title:\"Prayer Site\",slug:\"prayer\",summary:\"Weekly edited prayer alerts for global emergencies, surfaced by AI and curated by a human editor.\",status:\"active\",owner:\"Open Mission of Hope\"};function l(r){let e=Object.assign({p:\"p\",h2:\"h2\"},r.components);return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Our prayer hub surfaces urgent needs worldwide. AI helps us scan signals; a human editor curates weekly, adds scripture, and links to trusted updates.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"How It Works\"}),`\n`,(0,t.jsx)(e.p,{children:\"Each week, our system monitors global news and humanitarian signals. A dedicated editor reviews these alerts, adds scriptural context, and publishes curated prayer requests that help believers pray with specificity and faith.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Get Involved\"}),`\n`,(0,t.jsx)(e.p,{children:\"Subscribe to receive weekly prayer alerts, or volunteer as a regional prayer editor to help curate needs from your area.\"})]})}function j(r={}){let{wrapper:e}=r.components||{};return e?(0,t.jsx)(e,Object.assign({},r,{children:(0,t.jsx)(l,r)})):l(r)}var v=j;return w(_);})();\n;return Component;"
+    },
+    "_id": "programs/prayer.mdx",
+    "_raw": {
+      "sourceFilePath": "programs/prayer.mdx",
+      "sourceFileName": "prayer.mdx",
+      "sourceFileDir": "programs",
+      "contentType": "mdx",
+      "flattenedPath": "programs/prayer"
+    },
+    "type": "Program",
+    "url": "/programs/prayer"
+  }
+]

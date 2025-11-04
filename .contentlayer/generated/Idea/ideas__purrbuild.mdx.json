@@ -1,0 +1,27 @@
+{
+  "title": "PurrBuild",
+  "slug": "purrbuild",
+  "summary": "A simulation/game that teaches how to rebuild trust, infrastructure, and health in fragile contexts.",
+  "stage": "incubating",
+  "priority": 30,
+  "owner": "Pawprint Studio",
+  "tags": [
+    "education",
+    "game",
+    "civics"
+  ],
+  "body": {
+    "raw": "\nBoard + digital modules that illustrate entropy vs. order, incentives, and the power of honest systems.\n\n## The Concept\n\nPurrBuild is an educational game that simulates community rebuilding after crisis or in fragile states. Players make decisions about resource allocation, trust-building, infrastructure development, and governance—and see the consequences unfold.\n\n## What Players Learn\n\n- **Systems Thinking**: How infrastructure, health, and governance interconnect\n- **Incentive Design**: Why good intentions aren't enough without aligned incentives\n- **Trust Dynamics**: How trust is built slowly and destroyed quickly\n- **Transparency's Power**: The practical benefits of honest, open systems\n- **Long-term Thinking**: Balancing immediate needs with sustainable solutions\n\n## Design Philosophy\n\nCombining board game tactility with digital simulation depth. The physical components create social engagement, while digital modules handle complex calculations and scenarios.\n\n## Why \"PurrBuild\"?\n\nDeveloped by Pawprint Studio, the name evokes both construction (building) and the patient, persistent work of restoration (purring as a healing vibration).\n\n## Current Status\n\nPrototype development in partnership with humanitarian practitioners and game designers. Testing with education and training organizations.\n",
+    "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var y=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),b=(t,n)=>{for(var i in n)a(t,i,{get:n[i],enumerable:!0})},o=(t,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of g(n))!p.call(t,r)&&r!==i&&a(t,r,{get:()=>n[r],enumerable:!(s=u(n,r))||s.enumerable});return t};var w=(t,n,i)=>(i=t!=null?h(m(t)):{},o(n||!t||!t.__esModule?a(i,\"default\",{value:t,enumerable:!0}):i,t)),f=t=>o(a({},\"__esModule\",{value:!0}),t);var c=y((_,l)=>{l.exports=_jsx_runtime});var T={};b(T,{default:()=>P,frontmatter:()=>v});var e=w(c()),v={title:\"PurrBuild\",slug:\"purrbuild\",summary:\"A simulation/game that teaches how to rebuild trust, infrastructure, and health in fragile contexts.\",stage:\"incubating\",priority:30,owner:\"Pawprint Studio\",tags:[\"education\",\"game\",\"civics\"]};function d(t){let n=Object.assign({p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",strong:\"strong\"},t.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"Board + digital modules that illustrate entropy vs. order, incentives, and the power of honest systems.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"The Concept\"}),`\n`,(0,e.jsx)(n.p,{children:\"PurrBuild is an educational game that simulates community rebuilding after crisis or in fragile states. Players make decisions about resource allocation, trust-building, infrastructure development, and governance\\u2014and see the consequences unfold.\"}),`\n`,(0,e.jsx)(n.h2,{children:\"What Players Learn\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Systems Thinking\"}),\": How infrastructure, health, and governance interconnect\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Incentive Design\"}),\": Why good intentions aren't enough without aligned incentives\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Trust Dynamics\"}),\": How trust is built slowly and destroyed quickly\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Transparency's Power\"}),\": The practical benefits of honest, open systems\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Long-term Thinking\"}),\": Balancing immediate needs with sustainable solutions\"]}),`\n`]}),`\n`,(0,e.jsx)(n.h2,{children:\"Design Philosophy\"}),`\n`,(0,e.jsx)(n.p,{children:\"Combining board game tactility with digital simulation depth. The physical components create social engagement, while digital modules handle complex calculations and scenarios.\"}),`\n`,(0,e.jsx)(n.h2,{children:'Why \"PurrBuild\"?'}),`\n`,(0,e.jsx)(n.p,{children:\"Developed by Pawprint Studio, the name evokes both construction (building) and the patient, persistent work of restoration (purring as a healing vibration).\"}),`\n`,(0,e.jsx)(n.h2,{children:\"Current Status\"}),`\n`,(0,e.jsx)(n.p,{children:\"Prototype development in partnership with humanitarian practitioners and game designers. Testing with education and training organizations.\"})]})}function x(t={}){let{wrapper:n}=t.components||{};return n?(0,e.jsx)(n,Object.assign({},t,{children:(0,e.jsx)(d,t)})):d(t)}var P=x;return f(T);})();\n;return Component;"
+  },
+  "_id": "ideas/purrbuild.mdx",
+  "_raw": {
+    "sourceFilePath": "ideas/purrbuild.mdx",
+    "sourceFileName": "purrbuild.mdx",
+    "sourceFileDir": "ideas",
+    "contentType": "mdx",
+    "flattenedPath": "ideas/purrbuild"
+  },
+  "type": "Idea",
+  "url": "/incubator#purrbuild"
+}
