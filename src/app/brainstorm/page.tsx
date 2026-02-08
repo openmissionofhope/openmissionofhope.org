@@ -19,7 +19,7 @@ export default function BrainstormPage() {
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Brainstorm</h1>
           <p className="text-lg text-gray-600">
             Early-stage ideas from our community. These need more research, refinement, and
-            prayer before they're ready for the incubator. If one resonates with you, reach out.
+            prayer before they're ready to become pending projects. If one resonates with you, reach out.
           </p>
         </div>
 

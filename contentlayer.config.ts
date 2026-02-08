@@ -30,6 +30,10 @@ export const Program = defineDocumentType(() => ({
       type: 'string',
       required: false,
     },
+    sphere: {
+      type: 'string',
+      required: false,
+    },
   },
   computedFields: {
     url: {
@@ -58,7 +62,7 @@ export const Idea = defineDocumentType(() => ({
     },
     stage: {
       type: 'enum',
-      options: ['incubating', 'brainstorm'],
+      options: ['incubating', 'pending', 'brainstorm'],
       required: true,
     },
     priority: {
@@ -78,7 +82,10 @@ export const Idea = defineDocumentType(() => ({
   computedFields: {
     url: {
       type: 'string',
-      resolve: (doc) => `/incubator#${doc.slug}`,
+      resolve: (doc) =>
+        doc.stage === 'brainstorm'
+          ? `/brainstorm#${doc.slug}`
+          : `/pending#${doc.slug}`,
     },
   },
 }));
