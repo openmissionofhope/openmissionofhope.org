@@ -35,7 +35,7 @@ export default function TransparencyPage() {
               <li>Immutable records that can't be altered</li>
             </ul>
             <Link
-              href="/incubator#toivo"
+              href="/pending#toivo"
               className="inline-flex items-center text-blue-600 hover:text-blue-700 font-semibold"
             >
               Learn more about Toivo →

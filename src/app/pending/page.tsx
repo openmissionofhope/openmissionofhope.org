@@ -4,21 +4,20 @@ import IdeaCard from '@/components/idea-card';
 import MDXContent from '@/components/mdx-content';
 
 export const metadata = {
-  title: 'Incubator | Open Mission of Hope',
-  description: 'Ideas and projects in development, working toward becoming active programs.',
+  title: 'Pending | Open Mission of Hope',
+  description: 'Projects in development, working toward becoming active programs.',
 };
 
-export default function IncubatorPage() {
-  // Sort ideas by priority (lower number = higher priority)
+export default function PendingPage() {
   const sortedIdeas = allIdeas
-    .filter((idea) => idea.stage === 'incubating')
+    .filter((idea) => idea.stage === 'pending')
     .sort((a, b) => a.priority - b.priority);
 
   return (
     <div className="py-16">
       <Container>
         <div className="mx-auto max-w-3xl text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">Incubator</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">Pending</h1>
           <p className="text-lg text-gray-600">
             Projects and ideas we're actively developing. Some are close to launch; others are
             early explorations. All share our commitment to open, transparent, faith-driven work.
@@ -35,7 +34,6 @@ export default function IncubatorPage() {
                 priority={idea.priority}
                 slug={idea.slug}
               />
-              {/* Show full content for each idea */}
               <div className="mt-4 px-6">
                 <MDXContent code={idea.body.code} />
               </div>

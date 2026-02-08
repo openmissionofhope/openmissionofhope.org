@@ -1,7 +1,7 @@
 interface IdeaCardProps {
   title: string;
   summary: string;
-  stage: 'incubating' | 'brainstorm';
+  stage: 'incubating' | 'pending' | 'brainstorm';
   priority: number;
   slug: string;
 }
@@ -23,10 +23,12 @@ export default function IdeaCard({ title, summary, stage, priority, slug }: Idea
             className={`inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold ${
               stage === 'incubating'
                 ? 'bg-green-100 text-green-800'
-                : 'bg-gray-100 text-gray-800'
+                : stage === 'pending'
+                  ? 'bg-yellow-100 text-yellow-800'
+                  : 'bg-gray-100 text-gray-800'
             }`}
           >
-            {stage === 'incubating' ? 'Incubating' : 'Brainstorm'}
+            {stage === 'incubating' ? 'Incubating' : stage === 'pending' ? 'Pending' : 'Brainstorm'}
           </span>
         </div>
       </div>
