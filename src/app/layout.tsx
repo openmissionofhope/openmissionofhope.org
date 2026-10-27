@@ -8,12 +8,20 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const lora = Lora({ subsets: ['latin'], variable: '--font-lora' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.openmissionofhope.org'),
   title: 'Open Mission of Hope',
   description: 'Prayer, knowledge, and transparent mercy.',
   openGraph: {
     title: 'Open Mission of Hope',
     description: 'Prayer, knowledge, and transparent mercy.',
     type: 'website',
+    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'The Open Mission of Hope penguin' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Open Mission of Hope',
+    description: 'Prayer, knowledge, and transparent mercy.',
+    images: ['/og.png'],
   },
 };
 
