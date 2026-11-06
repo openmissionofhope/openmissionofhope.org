@@ -96,10 +96,10 @@ export default function TransparencyPage() {
               Questions about our finances or operations?
             </p>
             <a
-              href="mailto:transparency@openmissionhope.org"
+              href="mailto:transparency@openmissionofhope.org"
               className="text-blue-600 hover:text-blue-700 font-semibold"
             >
-              transparency@openmissionhope.org
+              transparency@openmissionofhope.org
             </a>
           </div>
         </div>

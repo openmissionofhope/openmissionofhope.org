@@ -129,9 +129,9 @@ All code is open-source. Content is © Open Mission of Hope.
 
 ## Contact
 
-- General: hello@openmissionhope.org
-- Transparency: transparency@openmissionhope.org
-- Finance: finance@openmissionhope.org
+- General: hello@openmissionofhope.org
+- Transparency: transparency@openmissionofhope.org
+- Finance: finance@openmissionofhope.org
 
 ## Mission
 

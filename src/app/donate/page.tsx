@@ -55,8 +55,8 @@ export default function DonatePage() {
                 <h3 className="font-semibold text-gray-900 mb-1">Bank Transfer</h3>
                 <p className="text-sm">
                   Contact us at{' '}
-                  <a href="mailto:finance@openmissionhope.org" className="text-blue-600 hover:text-blue-700">
-                    finance@openmissionhope.org
+                  <a href="mailto:finance@openmissionofhope.org" className="text-blue-600 hover:text-blue-700">
+                    finance@openmissionofhope.org
                   </a>{' '}
                   for wire transfer details.
                 </p>
@@ -82,10 +82,10 @@ export default function DonatePage() {
               Questions about giving? We're happy to talk.
             </p>
             <a
-              href="mailto:hello@openmissionhope.org"
+              href="mailto:hello@openmissionofhope.org"
               className="text-blue-600 hover:text-blue-700 font-semibold"
             >
-              hello@openmissionhope.org
+              hello@openmissionofhope.org
             </a>
           </div>
         </div>

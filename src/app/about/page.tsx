@@ -113,11 +113,11 @@ export default function AboutPage() {
             </p>
             <p>
               <strong>Email:</strong>{' '}
-              <a href="mailto:hello@openmissionhope.org">hello@openmissionhope.org</a>
+              <a href="mailto:hello@openmissionofhope.org">hello@openmissionofhope.org</a>
             </p>
             <p>
               <strong>Press inquiries:</strong>{' '}
-              <a href="mailto:press@openmissionhope.org">press@openmissionhope.org</a>
+              <a href="mailto:press@openmissionofhope.org">press@openmissionofhope.org</a>
             </p>
           </div>
         </div>
